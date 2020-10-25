@@ -1,0 +1,49 @@
+{
+  "line" : [
+  ["AEL","Airport Express"],
+  ["TCL","Tung Chung Line"],
+  ["WRL","West Rail Line"],
+  ["TKL","Tseung Kwan O Line"]
+],
+  "AELsta" : [
+  ["HOK","Hong Kong"],
+  ["KOW","Kowloon"],
+  ["TSY","Tsing Yi"],
+  ["AIR","Airport"],
+  ["AWE","AsiaWorld Expo"]
+],
+  "TCLsta" : [
+  ["HOK","Hong Kong"],
+  ["KOW","Kowloon"],
+  ["OLY","Olympic"],
+  ["NAC","Nam Cheong"],
+  ["LAK","Lai King"],
+  ["TSY","Tsing Yi"],
+  ["SUN","Sunny Bay"],
+  ["TUC","Tung Chung"]
+],
+  "WRLsta" : [
+  ["HUH","Hung Hom"],
+  ["ETS","East Tsim Sha Tsui"],
+  ["AUS","Austin"],
+  ["NAC","Nam Cheong"],
+  ["MEF","Mei Foo"],
+  ["TWW","Tsuen Wan Wes"],
+  ["KSR","Kam Sheung Road"],
+  ["YUL","Yuen Long"],
+  ["LOP","Long Ping"],
+  ["TIS","Tin Shui Wai"],
+  ["SIH","Siu Hong"],
+  ["TUM","Tuen Mun"]
+],
+  "TKLsta" : [
+  ["NOP","North Point"],
+  ["QUB","Quarry Bay"],
+  ["YAT","Yau Tong"],
+  ["TIK","Tiu Keng Leng"],
+  ["TKO","Tseung Kwan O"],
+  ["LHP","LOHAS Park"],
+  ["HAH","Hang Hau"],
+  ["POA","Po Lam"]
+]
+}
